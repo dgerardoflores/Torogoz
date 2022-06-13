@@ -1,0 +1,22 @@
+{
+  "name": "torogoz",
+  "version": "1.0.0",
+  "description": "Es una libreria de utilidades para salvadoreños",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "torogoz",
+    "sivar-utils",
+    "el-salvador",
+    "dui",
+    "nit",
+    "validaciones",
+    "validations",
+    "phone"
+  ],
+  "author": "Gerardo Flores",
+  "license": "ISC"
+}
