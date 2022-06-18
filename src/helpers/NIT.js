@@ -1,13 +1,16 @@
 class NIT {
     static validate(nit) {
-        const nitRegExp = /((^\d{4})-(\d{6})-(\d{3})-(\d$))|(^\d{14}$)/;
+        const regex = /((^\d{4})-(\d{6})-(\d{3})-(\d$))|(^\d{14}$)/;
 
-        if (!nitRegExp.test(nit)) return false;
+        if (!regex.test(nit)) return false;
 
         const [municipality, birthdate, correlative, verifier] = nit.includes('-')
             ? nit.split('-')
             : splitNIT(nit);
-        if (!NIT.isMunicipalityCode(municipality) || !NIT.isDate(birthdate)) return false;
+
+        if (!NIT.isMunicipalityCode(municipality) || !NIT.isDate(birthdate)) {
+            return false;
+        }
 
         const digits = municipality + birthdate + correlative;
         const sum = correlative.startsWith('0')
@@ -35,18 +38,16 @@ class NIT {
     }
 
     static isDate(str) {
-        const year = NIT.getFullYear(str.substring(4));
+        const digitsNITYear = str.substring(4);
+        const digitsActualYear = new Date().getFullYear().toString().substr(-2) + 1;
+
+        const year = digitsNITYear >= digitsActualYear ? ('19' + digitsNITYear) : ('20' + digitsNITYear);
         const month = str.substring(2, 4);
         const day = str.substring(0, 2);
-        const date = new Date(`${year}/${month}/${day}`);
-        return date && Number(date.getMonth()) + 1 === Number(month);
-    }
 
-    static getFullYear(year) {
-        return Number(year) >=
-            Number(new Date().getFullYear().toString().substr(-2)) + 1
-            ? '19'.concat(year)
-            : '20'.concat(year);
+        const date = new Date(year + '/' + month + '/' + day);
+
+        return date && Number(date.getMonth()) + 1 === Number(month);
     }
 
     static calculateNitVerificationOldFormat(digits) {
