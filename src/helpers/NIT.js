@@ -17,15 +17,11 @@ class NIT {
             ? NIT.calculateNitVerificationOldFormat(digits)
             : NIT.calculateNitVerification(digits);
 
-        return Number(verifier) === sum;
+        return parseInt(verifier) === sum;
     }
 
     static isMunicipalityCode(code) {
-        return code.length === 4 && (NIT.isForeignCode(code) || NIT.isNationalCode(code));
-    }
-
-    static isForeignCode(code) {
-        return code.startsWith('9');
+        return code.length === 4 && (code.startsWith('9') || NIT.isNationalCode(code));
     }
 
     static isNationalCode(code) {
@@ -34,7 +30,7 @@ class NIT {
         const department = code.substring(0, 2);
         const municipality = code.substring(2);
 
-        return municipalitiesLookup[department] >= Number(municipality);
+        return municipalitiesLookup[department] >= parseInt(municipality);
     }
 
     static isDate(str) {
@@ -47,25 +43,32 @@ class NIT {
 
         const date = new Date(year + '/' + month + '/' + day);
 
-        return date && Number(date.getMonth()) + 1 === Number(month);
+        return date && parseInt(date.getMonth()) + 1 === parseInt(month);
     }
 
     static calculateNitVerificationOldFormat(digits) {
+        const lengthDigits = digits.length;
         let sum = 0;
-        for (let i = 0; i < digits.length; i++) {
-            sum += Number(digits[i]) * (digits.length + 1 - i);
+
+        for (let i = 0; i < lengthDigits; i++) {
+            sum += parseInt(digits[i]) * (digits.length + 1 - i);
         }
+
         sum %= 11;
+        
         return sum;
     }
 
     static calculateNitVerification(digits) {
+        const lengthDigits = digits.length;
         let sum = 0;
-        for (let i = 0; i < digits.length; i++) {
-            sum +=
-                Number(digits[i]) * (3 + 6 * Math.floor(Math.abs((i + 5) / 6)) - (i + 1));
+
+        for (let i = 0; i < lengthDigits; i++) {
+            sum += parseInt(digits[i]) * (3 + 6 * Math.floor(Math.abs((i + 5) / 6)) - (i + 1));
         }
+
         sum %= 11;
+
         return sum > 1 ? 11 - sum : 0;
     }
 };
