@@ -18,5 +18,13 @@
     "phone"
   ],
   "author": "Gerardo Flores",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerardofloresdev/Torogoz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gerardofloresdev/Torogoz/issues"
+  },
+  "homepage": "https://github.com/gerardofloresdev/Torogoz#readme"
 }
