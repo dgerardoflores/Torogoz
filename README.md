@@ -68,6 +68,8 @@ Puedes obtener todos los departamentos de El Salvador como un areglo de objetos 
 |----|---------------|----------------------------------------------|------------------|-----------------------------------|
 | 01 | Ahuachapán    | departmentalCapital                          | SV-AH            | 1239.6                            |
 
+<br>
+
 ```js
 import { Torogoz, TypeDocuments } from 'torogoz';
 
@@ -83,6 +85,8 @@ Puedes obtener todos los municipios de un departamento utilizando el ID que obtu
 | id   | name (Nombre) | cantons (Cantones) | postalCode (Código postal) |
 |------|---------------|--------------------|----------------------------|
 | 0101 | Ahuachapán    | 29                 | 02101                      |
+
+<br>
 
 ```js
 import { Torogoz, TypeDocuments } from 'torogoz';
