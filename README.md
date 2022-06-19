@@ -91,5 +91,3 @@ const municipalities = const deparments = Torogoz.getMunicipalities('01');
 
 console.log(municipalities);
 ```
-
-#javascript #elsalvador #DUI #NIT #validation #validar #departamentos #municipios #telefono #phone
