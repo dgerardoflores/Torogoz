@@ -1,6 +1,7 @@
 import TypeDocuments from './../interfaces/typeDocuments.js';
 import DUI from './../helpers/DUI.js';
 import NIT from './../helpers/NIT.js';
+import Location from './../helpers/Location.js';
 
 class Torogoz {
     static validateDocument(data) {
@@ -30,6 +31,10 @@ class Torogoz {
             return NIT.validate(data.document);
         }
     };
+
+    static getDepartments() {
+        return Location.getDepartments();
+    }
 }
 
 export default Torogoz;
