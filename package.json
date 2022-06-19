@@ -8,13 +8,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "torogoz",
-    "sivar-utils",
-    "el-salvador",
-    "dui",
-    "nit",
-    "validaciones",
-    "validations",
+    "javascript",
+    "elsalvador",
+    "DUI",
+    "NIT",
+    "validation",
+    "validar",
+    "departamentos",
+    "municipios",
+    "telefono",
     "phone"
   ],
   "author": "Gerardo Flores",
