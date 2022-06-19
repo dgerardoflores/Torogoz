@@ -35,11 +35,12 @@ $ yarn add torogoz
 Tu puedes validar un Documento Único de Identidad (DUI)
 
 ```js
-import Torogoz from './src/core/torogoz.js';
-import TypeDocuments from './src/interfaces/typeDocuments.js';
+import { Torogoz, TypeDocuments } from 'torogoz';
 
-Torogoz.validateDocument({
-    typeDocument: TypeDocuments.DUI,
-    document: '02495046-3'
+const isValid = Torogoz.validateDocument({
+  typeDocument: TypeDocuments.DUI,
+  document: '00160177-3' // El DUI fue tomado de Google para efectos de prueba
 });
+
+console.log(isValid);
 ```
