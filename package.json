@@ -1,6 +1,6 @@
 {
   "name": "torogoz",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Es una libreria de utilidades para salvadoreños",
   "main": "index.js",
   "type": "module",
