@@ -59,3 +59,6 @@ const isValid = Torogoz.validateDocument({
 
 console.log(isValid);
 ```
+
+
+#javascript #elsalvador #DUI #NIT #validation #validar #departamentos #municipios #telefono #phone
