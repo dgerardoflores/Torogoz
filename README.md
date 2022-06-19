@@ -64,10 +64,9 @@ console.log(isValid);
 
 Puedes obtener todos los departamentos de El Salvador como un areglo de objetos de Javascript para que pueda ser utilizado en tus sistemas, como por ejemplo: un select o combobox, a continuación te mostramos un ejemplo de como se veria:
 
-| id | name       | departmentalCapital | ISO   | expansion |
+| id (ID) | name (Nombre)      | departmentalCapital (Cabecera departamental) | ISO (Código ISO)   | expansion ()extensión territorial |
 |----|------------|---------------------|-------|-----------|
 | 01 | Ahuachapán | departmentalCapital | SV-AH | 1239.6    |
-|    |            |                     |       |           |
 
 ```js
 import { Torogoz, TypeDocuments } from 'torogoz';
