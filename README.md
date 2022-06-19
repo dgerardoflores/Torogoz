@@ -27,3 +27,19 @@ $ npm install torogoz --save
 ```bash
 $ yarn add torogoz
 ```
+
+## ¿Cómo se utiliza?
+
+### Validación de documentos
+
+Tu puedes validar un Documento Único de Identidad (DUI)
+
+```js
+import Torogoz from './src/core/torogoz.js';
+import TypeDocuments from './src/interfaces/typeDocuments.js';
+
+Torogoz.validateDocument({
+    typeDocument: TypeDocuments.DUI,
+    document: '05834969-4'
+});
+```
