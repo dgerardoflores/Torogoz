@@ -13,3 +13,17 @@
    <a href=""><img src="https://img.shields.io/github/license/gerardofloresdev/Torogoz" alt="License"></a>
    <a href=""><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fgerardofloresdev%2FTorogoz.git" alt="Twitter"></a>
 </p>
+
+## ¿Cómo se instala?
+
+### npm (recomendado)
+
+```bash
+$ npm install torogoz --save
+```
+
+### yarn
+
+```bash
+$ yarn add torogoz
+```
