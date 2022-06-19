@@ -80,6 +80,10 @@ console.log(deparments);
 
 Puedes obtener todos los municipios de un departamento utilizando el ID que obtuviste al listar los departamentos, con esto puedes crear facilmente selects o combobox dependientes, a cotinuación de mostramos un ejemplo de como se veria:
 
+| id   | name (Nombre) | cantons (Cantones) | postalCode (Código postal) |
+|------|---------------|--------------------|----------------------------|
+| 0101 | Ahuachapán    | 29                 | 02101                      |
+
 ```js
 import { Torogoz, TypeDocuments } from 'torogoz';
 
