@@ -1,7 +1,9 @@
 import Torogoz from './src/core/torogoz.js';
 import TypeDocuments from './src/interfaces/typeDocuments.js';
 
-console.log(Torogoz.getMunicipalities('01'));
+const deparments = Torogoz.getDepartments();
+
+console.log(deparments);
 
 export {
     Torogoz,

@@ -60,5 +60,16 @@ const isValid = Torogoz.validateDocument({
 console.log(isValid);
 ```
 
+### Obtener departamentos
+
+Puedes obtener todos los departamentos de El Salvador como un areglo de objetos de Javascript para que pueda ser utilizado en tus sistemas, como por ejemplo: un select o combobox
+
+```js
+import { Torogoz, TypeDocuments } from 'torogoz';
+
+const deparments = Torogoz.getDepartments();
+
+console.log(deparments);
+```
 
 #javascript #elsalvador #DUI #NIT #validation #validar #departamentos #municipios #telefono #phone
