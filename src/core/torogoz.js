@@ -35,6 +35,10 @@ class Torogoz {
     static getDepartments() {
         return Location.getDepartments();
     }
+
+    static getMunicipalities(id) {
+        return Location.getMunicipalities(id);
+    }
 }
 
 export default Torogoz;

@@ -15,6 +15,16 @@ class Location {
 
         return departments;
     }
+
+    static getMunicipalities(id) {
+        const departmentFilter = json.filter(department => department.id === id);
+
+        if (departmentFilter.length === 0) {
+            throw new Error('The department code sent is invalid');
+        }
+
+        return departmentFilter[0].cities;
+    }
 }
 
 class Department {
