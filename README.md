@@ -8,3 +8,11 @@
 <p align="center">
 
 </p>
+
+[![Version][version-badge]][package]
+[![Build][build-badge]][build]
+[![Install Size][size-badge]][package-size]
+[![Downloads][downloads-badge]][npmcharts]
+[![PRs Welcome][prs-badge]][prs]
+[![Commitizen friendly][cz-badge]][cz]
+[![MIT License][license-badge]][license]
