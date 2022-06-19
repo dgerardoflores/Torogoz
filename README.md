@@ -30,7 +30,7 @@ $ yarn add torogoz
 
 ## ¿Cómo se utiliza?
 
-### Validación de documentos
+### Validación de DUI
 
 Tu puedes validar un Documento Único de Identidad (DUI)
 
@@ -40,6 +40,21 @@ import { Torogoz, TypeDocuments } from 'torogoz';
 const isValid = Torogoz.validateDocument({
   typeDocument: TypeDocuments.DUI,
   document: '00160177-3' // El DUI fue tomado de Google para efectos de prueba
+});
+
+console.log(isValid);
+```
+
+### Validación de NIT
+
+Tu puedes validar un Número de identificación tributaria, aunque ten en cuenta que este documento dejará de utilizarse debido a la nueva regulación el 24 de diciembre de 2021
+
+```js
+import { Torogoz, TypeDocuments } from 'torogoz';
+
+const isValid = Torogoz.validateDocument({
+  typeDocument: TypeDocuments.NIT,
+  document: '0614-290209-000-0' // El NIT fue tomado de Google para efectos de prueba
 });
 
 console.log(isValid);
