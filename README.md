@@ -76,4 +76,16 @@ const deparments = Torogoz.getDepartments();
 console.log(deparments);
 ```
 
+### Obtener municipios por departamento
+
+Puedes obtener todos los municipios de un departamento utilizando el ID que obtuviste al listar los departamentos, con esto puedes crear facilmente selects o combobox dependientes, a cotinuación de mostramos un ejemplo de como se veria:
+
+```js
+import { Torogoz, TypeDocuments } from 'torogoz';
+
+const municipalities = const deparments = Torogoz.getMunicipalities('01');
+
+console.log(municipalities);
+```
+
 #javascript #elsalvador #DUI #NIT #validation #validar #departamentos #municipios #telefono #phone
