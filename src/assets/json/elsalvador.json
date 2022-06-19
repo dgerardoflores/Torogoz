@@ -1,0 +1,1700 @@
+[
+    {
+        "id": "01",
+        "name": "Ahuachapán",
+        "departmentalCapital": "Ahuachapán",
+        "ISO": "SV-AH",
+        "expansion": 1239.6,
+        "cities": [
+            {
+                "id_mun": "0101",
+                "name": "Ahuachapán",
+                "cantons": 29,
+                "postalCode": "02101"
+            },
+            {
+                "id_mun": "0102",
+                "name": "Apaneca",
+                "cantons": 7,
+                "postalCode": "02102"
+            },
+            {
+                "id_mun": "0103",
+                "name": "Atiquizaya",
+                "cantons": 14,
+                "postalCode": "02103"
+            },
+            {
+                "id_mun": "0104",
+                "name": "Concepción de Ataco",
+                "cantons": 11,
+                "postalCode": "02106"
+            },
+            {
+                "id_mun": "0105",
+                "name": "El Refugio",
+                "cantons": 3,
+                "postalCode": "02107"
+            },
+            {
+                "id_mun": "0106",
+                "name": "Guaymango",
+                "cantons": 14,
+                "postalCode": "02108"
+            },
+            {
+                "id_mun": "0107",
+                "name": "Jujutla",
+                "cantons": 12,
+                "postalCode": "02109"
+            },
+            {
+                "id_mun": "0108",
+                "name": "San Francisco Menéndez",
+                "cantons": 9,
+                "postalCode": "02113"
+            },
+            {
+                "id_mun": "0109",
+                "name": "San Lorenzo",
+                "cantons": 6,
+                "postalCode": "02115"
+            },
+            {
+                "id_mun": "0110",
+                "name": "San Pedro Puxtla",
+                "cantons": 6,
+                "postalCode": "02116"
+            },
+            {
+                "id_mun": "0111",
+                "name": "Tacuba",
+                "cantons": 14,
+                "postalCode": "02117"
+            },
+            {
+                "id_mun": "0112",
+                "name": "Turín",
+                "cantons": 2,
+                "postalCode": "02118"
+            }
+        ]
+    },
+    {
+        "id": "02",
+        "name": "Santa Ana",
+        "departmentalCapital": "Santa Ana",
+        "ISO": "SV-SA",
+        "expansion": 2023.17,
+        "cities": [
+            {
+                "id_mun": "0201",
+                "name": "Candelaria de la Frontera",
+                "cantons": 11,
+                "postalCode": "02203"
+            },
+            {
+                "id_mun": "0202",
+                "name": "Coatepeque",
+                "cantons": 16,
+                "postalCode": "02204"
+            },
+            {
+                "id_mun": "0203",
+                "name": "Chalchuapa",
+                "cantons": 20,
+                "postalCode": "02205"
+            },
+            {
+                "id_mun": "0204",
+                "name": "El Congo",
+                "cantons": 8,
+                "postalCode": "02207"
+            },
+            {
+                "id_mun": "0205",
+                "name": "El Porvenir",
+                "cantons": 4,
+                "postalCode": "02208"
+            },
+            {
+                "id_mun": "0206",
+                "name": "Masahuat",
+                "cantons": 5,
+                "postalCode": "02210"
+            },
+            {
+                "id_mun": "0207",
+                "name": "Metapán",
+                "cantons": 29,
+                "postalCode": "02211"
+            },
+            {
+                "id_mun": "0208",
+                "name": "San Antonio Pajonal",
+                "cantons": 4,
+                "postalCode": "02212"
+            },
+            {
+                "id_mun": "0209",
+                "name": "San Sebastián Salitrillo",
+                "cantons": 4,
+                "postalCode": "02215"
+            },
+            {
+                "id_mun": "0210",
+                "name": "Santa Ana",
+                "cantons": 35,
+                "postalCode": "02201"
+            },
+            {
+                "id_mun": "0211",
+                "name": "Santa Rosa Guachipilín",
+                "cantons": 6,
+                "postalCode": "02216"
+            },
+            {
+                "id_mun": "0212",
+                "name": "Santiago de la Frontera",
+                "cantons": 6,
+                "postalCode": "02217"
+            },
+            {
+                "id_mun": "0213",
+                "name": "Texistepeque",
+                "cantons": 6,
+                "postalCode": "02218"
+            }
+        ]
+    },
+    {
+        "id": "03",
+        "name": "Sonsonate",
+        "departmentalCapital": "Sonsonate",
+        "ISO": "SV-SO",
+        "expansion": 1225.77,
+        "cities": [
+            {
+                "id_mun": "0301",
+                "name": "Acajutla",
+                "cantons": 9,
+                "postalCode": "02302"
+            },
+            {
+                "id_mun": "0302",
+                "name": "Armenia",
+                "cantons": 9,
+                "postalCode": "02303"
+            },
+            {
+                "id_mun": "0303",
+                "name": "Caluco",
+                "cantons": 8,
+                "postalCode": "02304"
+            },
+            {
+                "id_mun": "0304",
+                "name": "Cuisnahuat",
+                "cantons": 5,
+                "postalCode": "02305"
+            },
+            {
+                "id_mun": "0305",
+                "name": "Santa Isabel Ishuatán",
+                "cantons": 8,
+                "postalCode": "02318"
+            },
+            {
+                "id_mun": "0306",
+                "name": "Izalco",
+                "cantons": 25,
+                "postalCode": "02306"
+            },
+            {
+                "id_mun": "0307",
+                "name": "Juayúa",
+                "cantons": 10,
+                "postalCode": "02307"
+            },
+            {
+                "id_mun": "0308",
+                "name": "Nahuizalco",
+                "cantons": 15,
+                "postalCode": "02311"
+            },
+            {
+                "id_mun": "0309",
+                "name": "Nahulingo",
+                "cantons": 4,
+                "postalCode": "02312"
+            },
+            {
+                "id_mun": "0310",
+                "name": "Salcoatitán",
+                "cantons": 2,
+                "postalCode": "02313"
+            },
+            {
+                "id_mun": "0311",
+                "name": "San Antonio del Monte",
+                "cantons": 6,
+                "postalCode": "02314"
+            },
+            {
+                "id_mun": "0312",
+                "name": "San Julián",
+                "cantons": 9,
+                "postalCode": "02316"
+            },
+            {
+                "id_mun": "0313",
+                "name": "Santa Catarina Masahuat",
+                "cantons": 4,
+                "postalCode": "02317"
+            },
+            {
+                "id_mun": "0314",
+                "name": "Santo Domingo de Guzmán",
+                "cantons": 4,
+                "postalCode": "02319"
+            },
+            {
+                "id_mun": "0315",
+                "name": "Sonsonate",
+                "cantons": 12,
+                "postalCode": "02301"
+            },
+            {
+                "id_mun": "0316",
+                "name": "Sonzacate",
+                "cantons": 2,
+                "postalCode": "02320"
+            }
+        ]
+    },
+    {
+        "id": "04",
+        "name": "Chalatenango",
+        "departmentalCapital": "Chalatenango",
+        "ISO": "SV-CH",
+        "expansion": 2017,
+        "cities": [
+            {
+                "id_mun": "0401",
+                "name": "Agua Caliente",
+                "cantons": 7,
+                "postalCode": "01302"
+            },
+            {
+                "id_mun": "0402",
+                "name": "Arcatao",
+                "cantons": 8,
+                "postalCode": "01303"
+            },
+            {
+                "id_mun": "0403",
+                "name": "Azacualpa",
+                "cantons": 2,
+                "postalCode": "01304"
+            },
+            {
+                "id_mun": "0404",
+                "name": "Citalá",
+                "cantons": 8,
+                "postalCode": "01306"
+            },
+            {
+                "id_mun": "0405",
+                "name": "Comalapa",
+                "cantons": 4,
+                "postalCode": "01307"
+            },
+            {
+                "id_mun": "0406",
+                "name": "Concepción Quezaltepeque",
+                "cantons": 5,
+                "postalCode": "01308"
+            },
+            {
+                "id_mun": "0407",
+                "name": "Chalatenango",
+                "cantons": 6,
+                "postalCode": "01301"
+            },
+            {
+                "id_mun": "0408",
+                "name": "Dulce name de María",
+                "cantons": 9,
+                "postalCode": "01309"
+            },
+            {
+                "id_mun": "0409",
+                "name": "El Carrizal",
+                "cantons": 4,
+                "postalCode": "01311"
+            },
+            {
+                "id_mun": "0410",
+                "name": "El Paraíso",
+                "cantons": 3,
+                "postalCode": "01312"
+            },
+            {
+                "id_mun": "0411",
+                "name": "La Laguna",
+                "cantons": 4,
+                "postalCode": "01313"
+            },
+            {
+                "id_mun": "0412",
+                "name": "La Palma",
+                "cantons": 7,
+                "postalCode": "01314"
+            },
+            {
+                "id_mun": "0413",
+                "name": "La Reina",
+                "cantons": 7,
+                "postalCode": "01315"
+            },
+            {
+                "id_mun": "0414",
+                "name": "Las Vueltas",
+                "cantons": 6,
+                "postalCode": "01317"
+            },
+            {
+                "id_mun": "0415",
+                "name": "name de Jesús",
+                "cantons": 6,
+                "postalCode": "01318"
+            },
+            {
+                "id_mun": "0416",
+                "name": "Nueva Concepción",
+                "cantons": 10,
+                "postalCode": "01319"
+            },
+            {
+                "id_mun": "0417",
+                "name": "Nueva Trinidad",
+                "cantons": 7,
+                "postalCode": "01320"
+            },
+            {
+                "id_mun": "0418",
+                "name": "Ojos de Agua",
+                "cantons": 7,
+                "postalCode": "01321"
+            },
+            {
+                "id_mun": "0419",
+                "name": "Potonico",
+                "cantons": 4,
+                "postalCode": "01322"
+            },
+            {
+                "id_mun": "0420",
+                "name": "San Antonio de la Cruz",
+                "cantons": 4,
+                "postalCode": "01324"
+            },
+            {
+                "id_mun": "0421",
+                "name": "San Antonio Los Ranchos",
+                "cantons": 1,
+                "postalCode": "01325"
+            },
+            {
+                "id_mun": "0422",
+                "name": "San Fernando",
+                "cantons": 5,
+                "postalCode": "01326"
+            },
+            {
+                "id_mun": "0423",
+                "name": "San Francisco Lempa",
+                "cantons": "?",
+                "postalCode": "01327"
+            },
+            {
+                "id_mun": "0424",
+                "name": "San Francisco Morazán",
+                "cantons": 2,
+                "postalCode": "01328"
+            },
+            {
+                "id_mun": "0425",
+                "name": "San Ignacio",
+                "cantons": 7,
+                "postalCode": "01329"
+            },
+            {
+                "id_mun": "0426",
+                "name": "San Isidro Labrador",
+                "cantons": 5,
+                "postalCode": "01330"
+            },
+            {
+                "id_mun": "0427",
+                "name": "San José Cancasque (Cancasque)",
+                "cantons": 4,
+                "postalCode": "01305"
+            },
+            {
+                "id_mun": "0428",
+                "name": "San José Las Flores / Las Flores",
+                "cantons": 6,
+                "postalCode": "01316"
+            },
+            {
+                "id_mun": "0429",
+                "name": "San Luis del Carmen",
+                "cantons": 5,
+                "postalCode": "01331"
+            },
+            {
+                "id_mun": "0430",
+                "name": "San Miguel de Mercedes",
+                "cantons": 5,
+                "postalCode": "01332"
+            },
+            {
+                "id_mun": "0431",
+                "name": "San Rafael",
+                "cantons": 4,
+                "postalCode": "01333"
+            },
+            {
+                "id_mun": "0432",
+                "name": "Santa Rita",
+                "cantons": 4,
+                "postalCode": "01334"
+            },
+            {
+                "id_mun": "0433",
+                "name": "Tejutla",
+                "cantons": 15,
+                "postalCode": "01335"
+            }
+        ]
+    },
+    {
+        "id": "05",
+        "name": "La Libertad",
+        "departmentalCapital": "Santa Tecla",
+        "ISO": "SV-LI",
+        "expansion": 1652.88,
+        "cities": [
+            {
+                "id_mun": "0501",
+                "name": "Antiguo Cuscatlán",
+                "cantons": 6,
+                "postalCode": "01502"
+            },
+            {
+                "id_mun": "0502",
+                "name": "Ciudad Arce",
+                "cantons": 15,
+                "postalCode": "01504"
+            },
+            {
+                "id_mun": "0503",
+                "name": "Colón",
+                "cantons": 12,
+                "postalCode": "01512"
+            },
+            {
+                "id_mun": "0504",
+                "name": "Comasagua",
+                "cantons": 9,
+                "postalCode": "01506"
+            },
+            {
+                "id_mun": "0505",
+                "name": "Chiltiupán",
+                "cantons": 11,
+                "postalCode": "01507"
+            },
+            {
+                "id_mun": "0506",
+                "name": "Huizúcar",
+                "cantons": 6,
+                "postalCode": "01508"
+            },
+            {
+                "id_mun": "0507",
+                "name": "Jayaque",
+                "cantons": 4,
+                "postalCode": "01509"
+            },
+            {
+                "id_mun": "0508",
+                "name": "Jicalapa",
+                "cantons": 3,
+                "postalCode": "01510"
+            },
+            {
+                "id_mun": "0509",
+                "name": "La Libertad",
+                "cantons": 10,
+                "postalCode": "01511"
+            },
+            {
+                "id_mun": "0510",
+                "name": "Nuevo Cuscatlán",
+                "cantons": 0,
+                "postalCode": "01513"
+            },
+            {
+                "id_mun": "0511",
+                "name": "Santa Tecla",
+                "cantons": 10,
+                "postalCode": "01501"
+            },
+            {
+                "id_mun": "0512",
+                "name": "Quezaltepeque",
+                "cantons": 13,
+                "postalCode": "01515"
+            },
+            {
+                "id_mun": "0513",
+                "name": "Sacacoyo",
+                "cantons": 3,
+                "postalCode": "01516"
+            },
+            {
+                "id_mun": "0514",
+                "name": "San José Villanueva",
+                "cantons": 5,
+                "postalCode": "01517"
+            },
+            {
+                "id_mun": "0515",
+                "name": "San Juan Opico",
+                "cantons": 27,
+                "postalCode": "01514"
+            },
+            {
+                "id_mun": "0516",
+                "name": "San Matías",
+                "cantons": 8,
+                "postalCode": "01518"
+            },
+            {
+                "id_mun": "0517",
+                "name": "San Pablo Tacachico",
+                "cantons": 8,
+                "postalCode": "01519"
+            },
+            {
+                "id_mun": "0518",
+                "name": "Tamanique",
+                "cantons": 11,
+                "postalCode": "01522"
+            },
+            {
+                "id_mun": "0519",
+                "name": "Talnique",
+                "cantons": 7,
+                "postalCode": "01521"
+            },
+            {
+                "id_mun": "0520",
+                "name": "Teotepeque",
+                "cantons": 10,
+                "postalCode": "01523"
+            },
+            {
+                "id_mun": "0521",
+                "name": "Tepecoyo",
+                "cantons": 10,
+                "postalCode": "01524"
+            },
+            {
+                "id_mun": "0522",
+                "name": "Zaragoza",
+                "cantons": 4,
+                "postalCode": "01525"
+            }
+        ]
+    },
+    {
+        "id": "06",
+        "name": "San Salvador",
+        "departmentalCapital": "San Salvador",
+        "ISO": "SV-SS",
+        "expansion": 886.15,
+        "cities": [
+            {
+                "id_mun": "0601",
+                "name": "Aguilares",
+                "cantons": 5,
+                "postalCode": "01122"
+            },
+            {
+                "id_mun": "0602",
+                "name": "Apopa",
+                "cantons": 8,
+                "postalCode": "01123"
+            },
+            {
+                "id_mun": "0603",
+                "name": "Ayutuxtepeque",
+                "cantons": 2,
+                "postalCode": "01121"
+            },
+            {
+                "id_mun": "0604",
+                "name": "Cuscatancingo",
+                "cantons": 1,
+                "postalCode": "01119"
+            },
+            {
+                "id_mun": "0605",
+                "name": "El Paisnal",
+                "cantons": 12,
+                "postalCode": "01124"
+            },
+            {
+                "id_mun": "0606",
+                "name": "Guazapa",
+                "cantons": 8,
+                "postalCode": "01125"
+            },
+            {
+                "id_mun": "0607",
+                "name": "Ilopango",
+                "cantons": 4,
+                "postalCode": "01117"
+            },
+            {
+                "id_mun": "0608",
+                "name": "Mejicanos",
+                "cantons": 0,
+                "postalCode": "01120"
+            },
+            {
+                "id_mun": "0609",
+                "name": "Nejapa",
+                "cantons": 8,
+                "postalCode": "01126"
+            },
+            {
+                "id_mun": "0610",
+                "name": "Panchimalco",
+                "cantons": 14,
+                "postalCode": "01127"
+            },
+            {
+                "id_mun": "0611",
+                "name": "Rosario de Mora",
+                "cantons": 7,
+                "postalCode": "01128"
+            },
+            {
+                "id_mun": "0612",
+                "name": "San Marcos",
+                "cantons": 4,
+                "postalCode": "01115"
+            },
+            {
+                "id_mun": "0613",
+                "name": "San Martín",
+                "cantons": 6,
+                "postalCode": "01129"
+            },
+            {
+                "id_mun": "0614",
+                "name": "San Salvador",
+                "cantons": 7,
+                "postalCode": "01101"
+            },
+            {
+                "id_mun": "0615",
+                "name": "Santiago Texacuangos",
+                "cantons": 5,
+                "postalCode": "01130"
+            },
+            {
+                "id_mun": "0616",
+                "name": "Santo Tomás",
+                "cantons": 9,
+                "postalCode": "01131"
+            },
+            {
+                "id_mun": "0617",
+                "name": "Soyapango",
+                "cantons": 8,
+                "postalCode": "01116"
+            },
+            {
+                "id_mun": "0618",
+                "name": "Tonacatepeque",
+                "cantons": 8,
+                "postalCode": "01132"
+            },
+            {
+                "id_mun": "0619",
+                "name": "Ciudad Delgado",
+                "cantons": 8,
+                "postalCode": "01118"
+            }
+        ]
+    },
+    {
+        "id": "07",
+        "name": "Cuscatlán",
+        "departmentalCapital": "Cojutepeque",
+        "ISO": "SV-CU",
+        "expansion": 756.19,
+        "cities": [
+            {
+                "id_mun": "0701",
+                "name": "Candelaria",
+                "cantons": 8,
+                "postalCode": "01402"
+            },
+            {
+                "id_mun": "0702",
+                "name": "Cojutepeque",
+                "cantons": 7,
+                "postalCode": "01401"
+            },
+            {
+                "id_mun": "0703",
+                "name": "El Carmen",
+                "cantons": 7,
+                "postalCode": "01403"
+            },
+            {
+                "id_mun": "0704",
+                "name": "El Rosario",
+                "cantons": 4,
+                "postalCode": "01404"
+            },
+            {
+                "id_mun": "0705",
+                "name": "Monte San Juan",
+                "cantons": 10,
+                "postalCode": "01405"
+            },
+            {
+                "id_mun": "0706",
+                "name": "Oratorio de Concepción",
+                "cantons": 2,
+                "postalCode": "01406"
+            },
+            {
+                "id_mun": "0707",
+                "name": "San Bartolomé Perulapía",
+                "cantons": 2,
+                "postalCode": "01407"
+            },
+            {
+                "id_mun": "0708",
+                "name": "San Cristóbal",
+                "cantons": 6,
+                "postalCode": "01408"
+            },
+            {
+                "id_mun": "0709",
+                "name": "San José Guayabal",
+                "cantons": 9,
+                "postalCode": "01409"
+            },
+            {
+                "id_mun": "0710",
+                "name": "San Pedro Perulapán",
+                "cantons": 17,
+                "postalCode": "01410"
+            },
+            {
+                "id_mun": "0711",
+                "name": "San Rafael Cedros",
+                "cantons": 6,
+                "postalCode": "01411"
+            },
+            {
+                "id_mun": "0712",
+                "name": "San Ramón",
+                "cantons": 4,
+                "postalCode": "01412"
+            },
+            {
+                "id_mun": "0713",
+                "name": "Santa Cruz Analquito",
+                "cantons": 1,
+                "postalCode": "01413"
+            },
+            {
+                "id_mun": "0714",
+                "name": "Santa Cruz Michapa",
+                "cantons": 6,
+                "postalCode": "01414"
+            },
+            {
+                "id_mun": "0715",
+                "name": "Suchitoto",
+                "cantons": 26,
+                "postalCode": "01415"
+            },
+            {
+                "id_mun": "0716",
+                "name": "Tenancingo",
+                "cantons": 10,
+                "postalCode": "01416"
+            }
+        ]
+    },
+    {
+        "id": "08",
+        "name": "La Paz",
+        "departmentalCapital": "Zacatecoluca",
+        "ISO": "SV-PA",
+        "expansion": 1223.61,
+        "cities": [
+            {
+                "id_mun": "0801",
+                "name": "Cuyultitán",
+                "cantons": 2,
+                "postalCode": "01603"
+            },
+            {
+                "id_mun": "0802",
+                "name": "El Rosario",
+                "cantons": 4,
+                "postalCode": "01604"
+            },
+            {
+                "id_mun": "0803",
+                "name": "Jerusalén",
+                "cantons": 5,
+                "postalCode": "01605"
+            },
+            {
+                "id_mun": "0804",
+                "name": "Mercedes La Ceiba",
+                "cantons": 2,
+                "postalCode": "01607"
+            },
+            {
+                "id_mun": "0805",
+                "name": "Olocuilta",
+                "cantons": 12,
+                "postalCode": "01608"
+            },
+            {
+                "id_mun": "0806",
+                "name": "Paraíso de Osorio",
+                "cantons": 2,
+                "postalCode": "01609"
+            },
+            {
+                "id_mun": "0807",
+                "name": "San Antonio Masahuat",
+                "cantons": 5,
+                "postalCode": "01610"
+            },
+            {
+                "id_mun": "0808",
+                "name": "San Emigdio",
+                "cantons": 2,
+                "postalCode": "01611"
+            },
+            {
+                "id_mun": "0809",
+                "name": "San Francisco Chinameca",
+                "cantons": 5,
+                "postalCode": "01612"
+            },
+            {
+                "id_mun": "0810",
+                "name": "San Juan Nonualco",
+                "cantons": 12,
+                "postalCode": "01613"
+            },
+            {
+                "id_mun": "0811",
+                "name": "San Juan Talpa",
+                "cantons": 4,
+                "postalCode": "01614"
+            },
+            {
+                "id_mun": "0812",
+                "name": "San Juan Tepezontes",
+                "cantons": 3,
+                "postalCode": "01615"
+            },
+            {
+                "id_mun": "0813",
+                "name": "San Luis Talpa",
+                "cantons": 10,
+                "postalCode": "01616"
+            },
+            {
+                "id_mun": "0814",
+                "name": "San Miguel Tepezontes",
+                "cantons": 2,
+                "postalCode": "01617"
+            },
+            {
+                "id_mun": "0815",
+                "name": "San Pedro Masahuat",
+                "cantons": 15,
+                "postalCode": "01618"
+            },
+            {
+                "id_mun": "0816",
+                "name": "San Pedro Nonualco",
+                "cantons": 7,
+                "postalCode": "01619"
+            },
+            {
+                "id_mun": "0817",
+                "name": "San Rafael Obrajuelo",
+                "cantons": 6,
+                "postalCode": "01620"
+            },
+            {
+                "id_mun": "0818",
+                "name": "Santa María Ostuma",
+                "cantons": 7,
+                "postalCode": "01621"
+            },
+            {
+                "id_mun": "0819",
+                "name": "Santiago Nonualco",
+                "cantons": 22,
+                "postalCode": "01622"
+            },
+            {
+                "id_mun": "0820",
+                "name": "Tapalhuaca",
+                "cantons": 3,
+                "postalCode": "01623"
+            },
+            {
+                "id_mun": "0821",
+                "name": "Zacatecoluca",
+                "cantons": 39,
+                "postalCode": "01624"
+            },
+            {
+                "id_mun": "0822",
+                "name": "San Luis La Herradura",
+                "cantons": 10,
+                "postalCode": "01606"
+            }
+        ]
+    },
+    {
+        "id": "09",
+        "name": "Cabañas",
+        "departmentalCapital": "Sensuntepeque",
+        "ISO": "SV-CA",
+        "expansion": 1103.51,
+        "cities": [
+            {
+                "id_mun": "0901",
+                "name": "Cinquera",
+                "cantons": 8,
+                "postalCode": "01202"
+            },
+            {
+                "id_mun": "0902",
+                "name": "Guacotecti",
+                "cantons": 3,
+                "postalCode": "01203"
+            },
+            {
+                "id_mun": "0903",
+                "name": "Ilobasco",
+                "cantons": 18,
+                "postalCode": "01204"
+            },
+            {
+                "id_mun": "0904",
+                "name": "Jutiapa",
+                "cantons": 7,
+                "postalCode": "01206"
+            },
+            {
+                "id_mun": "0905",
+                "name": "San Isidro",
+                "cantons": 7,
+                "postalCode": "01207"
+            },
+            {
+                "id_mun": "0906",
+                "name": "Sensuntepeque",
+                "cantons": 22,
+                "postalCode": "01201"
+            },
+            {
+                "id_mun": "0907",
+                "name": "Tejutepeque",
+                "cantons": 6,
+                "postalCode": "01208"
+            },
+            {
+                "id_mun": "0908",
+                "name": "Victoria",
+                "cantons": 10,
+                "postalCode": "01210"
+            },
+            {
+                "id_mun": "0909",
+                "name": "Dolores",
+                "cantons": 6,
+                "postalCode": "01209"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "San Vicente",
+        "departmentalCapital": "San Vicente",
+        "ISO": "SV-SV",
+        "expansion": 1184.02,
+        "cities": [
+            {
+                "id_mun": "1001",
+                "name": "Apastepeque",
+                "cantons": 10,
+                "postalCode": "01702"
+            },
+            {
+                "id_mun": "1002",
+                "name": "Guadalupe",
+                "cantons": 4,
+                "postalCode": "01703"
+            },
+            {
+                "id_mun": "1003",
+                "name": "San Cayetano Istepeque",
+                "cantons": 3,
+                "postalCode": "01704"
+            },
+            {
+                "id_mun": "1004",
+                "name": "Santa Clara",
+                "cantons": 6,
+                "postalCode": "01709"
+            },
+            {
+                "id_mun": "1005",
+                "name": "Santo Domingo",
+                "cantons": 4,
+                "postalCode": "01710"
+            },
+            {
+                "id_mun": "1006",
+                "name": "San Esteban Catarina",
+                "cantons": 7,
+                "postalCode": "01705"
+            },
+            {
+                "id_mun": "1007",
+                "name": "San Ildefonso",
+                "cantons": 6,
+                "postalCode": "01706"
+            },
+            {
+                "id_mun": "1008",
+                "name": "San Lorenzo",
+                "cantons": 4,
+                "postalCode": "01707"
+            },
+            {
+                "id_mun": "1009",
+                "name": "San Sebastián",
+                "cantons": 6,
+                "postalCode": "01708"
+            },
+            {
+                "id_mun": "1010",
+                "name": "San Vicente",
+                "cantons": 26,
+                "postalCode": "01701"
+            },
+            {
+                "id_mun": "1011",
+                "name": "Tecoluca",
+                "cantons": 24,
+                "postalCode": "01711"
+            },
+            {
+                "id_mun": "1012",
+                "name": "Tepetitán",
+                "cantons": 3,
+                "postalCode": "01712"
+            },
+            {
+                "id_mun": "1013",
+                "name": "Verapaz",
+                "cantons": 8,
+                "postalCode": "01713"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Usulután",
+        "departmentalCapital": "Usulután",
+        "ISO": "SV-US",
+        "expansion": 2130.44,
+        "cities": [
+            {
+                "id_mun": "1101",
+                "name": "Alegría",
+                "cantons": 8,
+                "postalCode": "03404"
+            },
+            {
+                "id_mun": "1102",
+                "name": "Berlín",
+                "cantons": 17,
+                "postalCode": "03403"
+            },
+            {
+                "id_mun": "1103",
+                "name": "California",
+                "cantons": 1,
+                "postalCode": "03404"
+            },
+            {
+                "id_mun": "1104",
+                "name": "Concepción Batres",
+                "cantons": 9,
+                "postalCode": "03405"
+            },
+            {
+                "id_mun": "1105",
+                "name": "El Triunfo",
+                "cantons": 5,
+                "postalCode": "03406"
+            },
+            {
+                "id_mun": "1106",
+                "name": "Ereguayquín",
+                "cantons": 5,
+                "postalCode": "03407"
+            },
+            {
+                "id_mun": "1107",
+                "name": "Estanzuelas",
+                "cantons": 9,
+                "postalCode": "03408"
+            },
+            {
+                "id_mun": "1108",
+                "name": "Jiquilisco",
+                "cantons": 39,
+                "postalCode": "03409"
+            },
+            {
+                "id_mun": "1109",
+                "name": "Jucuapa",
+                "cantons": 9,
+                "postalCode": "03410"
+            },
+            {
+                "id_mun": "1110",
+                "name": "Jucuarán",
+                "cantons": 9,
+                "postalCode": "03411"
+            },
+            {
+                "id_mun": "1111",
+                "name": "Mercedes Umaña",
+                "cantons": 9,
+                "postalCode": "03412"
+            },
+            {
+                "id_mun": "1112",
+                "name": "Nueva Granada",
+                "cantons": 11,
+                "postalCode": "03413"
+            },
+            {
+                "id_mun": "1113",
+                "name": "Ozatlán",
+                "cantons": 6,
+                "postalCode": "03415"
+            },
+            {
+                "id_mun": "1114",
+                "name": "Puerto El Triunfo",
+                "cantons": 5,
+                "postalCode": "03417"
+            },
+            {
+                "id_mun": "1115",
+                "name": "San Agustín",
+                "cantons": 20,
+                "postalCode": "03418"
+            },
+            {
+                "id_mun": "1116",
+                "name": "San Buenaventura",
+                "cantons": 6,
+                "postalCode": "03419"
+            },
+            {
+                "id_mun": "1117",
+                "name": "San Dionisio",
+                "cantons": 3,
+                "postalCode": "03420"
+            },
+            {
+                "id_mun": "1118",
+                "name": "Santa Elena",
+                "cantons": 10,
+                "postalCode": "03422"
+            },
+            {
+                "id_mun": "1119",
+                "name": "San Francisco Javier",
+                "cantons": 9,
+                "postalCode": "03421"
+            },
+            {
+                "id_mun": "1120",
+                "name": "Santa María",
+                "cantons": 2,
+                "postalCode": "03423"
+            },
+            {
+                "id_mun": "1121",
+                "name": "Santiago de María",
+                "cantons": 7,
+                "postalCode": "03424"
+            },
+            {
+                "id_mun": "1122",
+                "name": "Tecapán",
+                "cantons": 4,
+                "postalCode": "03426"
+            },
+            {
+                "id_mun": "1123",
+                "name": "Usulután",
+                "cantons": 8,
+                "postalCode": "03401"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "name": "San Miguel",
+        "departmentalCapital": "San Miguel",
+        "ISO": "SV-SM",
+        "expansion": 2077.1,
+        "cities": [
+            {
+                "id_mun": "1201",
+                "name": "Carolina",
+                "cantons": 5,
+                "postalCode": "03302"
+            },
+            {
+                "id_mun": "1202",
+                "name": "Ciudad Barrios",
+                "cantons": 11,
+                "postalCode": "03303"
+            },
+            {
+                "id_mun": "1203",
+                "name": "Comacarán",
+                "cantons": 5,
+                "postalCode": "03304"
+            },
+            {
+                "id_mun": "1204",
+                "name": "Chapeltique",
+                "cantons": 6,
+                "postalCode": "03305"
+            },
+            {
+                "id_mun": "1205",
+                "name": "Chinameca",
+                "cantons": 20,
+                "postalCode": "03306"
+            },
+            {
+                "id_mun": "1206",
+                "name": "Chirilagua",
+                "cantons": 11,
+                "postalCode": "03307"
+            },
+            {
+                "id_mun": "1207",
+                "name": "El Tránsito",
+                "cantons": 6,
+                "postalCode": "03309"
+            },
+            {
+                "id_mun": "1208",
+                "name": "Lolotique",
+                "cantons": 9,
+                "postalCode": "03311"
+            },
+            {
+                "id_mun": "1209",
+                "name": "Moncagua",
+                "cantons": 10,
+                "postalCode": "03312"
+            },
+            {
+                "id_mun": "1210",
+                "name": "Nueva Guadalupe",
+                "cantons": 3,
+                "postalCode": "03313"
+            },
+            {
+                "id_mun": "1211",
+                "name": "Nuevo Edén de San Juan",
+                "cantons": 7,
+                "postalCode": "03314"
+            },
+            {
+                "id_mun": "1212",
+                "name": "Quelepa",
+                "cantons": 3,
+                "postalCode": "03315"
+            },
+            {
+                "id_mun": "1213",
+                "name": "San Antonio del Mosco",
+                "cantons": 2,
+                "postalCode": "03316"
+            },
+            {
+                "id_mun": "1214",
+                "name": "San Gerardo",
+                "cantons": 4,
+                "postalCode": "03318"
+            },
+            {
+                "id_mun": "1215",
+                "name": "San Jorge",
+                "cantons": 5,
+                "postalCode": "03319"
+            },
+            {
+                "id_mun": "1216",
+                "name": "San Luis de la Reina",
+                "cantons": 4,
+                "postalCode": "03320"
+            },
+            {
+                "id_mun": "1217",
+                "name": "San Miguel",
+                "cantons": 32,
+                "postalCode": "03301"
+            },
+            {
+                "id_mun": "1218",
+                "name": "San Rafael Oriente",
+                "cantons": 4,
+                "postalCode": "03322"
+            },
+            {
+                "id_mun": "1219",
+                "name": "Sesori",
+                "cantons": 11,
+                "postalCode": "03323"
+            },
+            {
+                "id_mun": "1220",
+                "name": "Uluazapa",
+                "cantons": 3,
+                "postalCode": "03324"
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "name": "Morazán",
+        "departmentalCapital": "San Francisco Gotera",
+        "ISO": "SV-MO",
+        "expansion": 1447.43,
+        "cities": [
+            {
+                "id_mun": "1301",
+                "name": "Arambala",
+                "cantons": 2,
+                "postalCode": "03202"
+            },
+            {
+                "id_mun": "1302",
+                "name": "Cacaopera",
+                "cantons": 7,
+                "postalCode": "03203"
+            },
+            {
+                "id_mun": "1303",
+                "name": "Corinto",
+                "cantons": 5,
+                "postalCode": "03204"
+            },
+            {
+                "id_mun": "1304",
+                "name": "Chilanga",
+                "cantons": 6,
+                "postalCode": "03205"
+            },
+            {
+                "id_mun": "1305",
+                "name": "Delicias de Concepción",
+                "cantons": 2,
+                "postalCode": "03206"
+            },
+            {
+                "id_mun": "1306",
+                "name": "El Divisadero",
+                "cantons": 7,
+                "postalCode": "03207"
+            },
+            {
+                "id_mun": "1307",
+                "name": "El Rosario",
+                "cantons": 2,
+                "postalCode": "03208"
+            },
+            {
+                "id_mun": "1308",
+                "name": "Gualococti",
+                "cantons": 2,
+                "postalCode": "03209"
+            },
+            {
+                "id_mun": "1309",
+                "name": "Guatajiagua",
+                "cantons": 6,
+                "postalCode": "03210"
+            },
+            {
+                "id_mun": "1310",
+                "name": "Joateca",
+                "cantons": 3,
+                "postalCode": "03211"
+            },
+            {
+                "id_mun": "1311",
+                "name": "Jocoaitique",
+                "cantons": 2,
+                "postalCode": "03212"
+            },
+            {
+                "id_mun": "1312",
+                "name": "Jocoro",
+                "cantons": 8,
+                "postalCode": "03213"
+            },
+            {
+                "id_mun": "1313",
+                "name": "Lolotiquillo",
+                "cantons": 4,
+                "postalCode": "03214"
+            },
+            {
+                "id_mun": "1314",
+                "name": "Meanguera",
+                "cantons": 4,
+                "postalCode": "03215"
+            },
+            {
+                "id_mun": "1315",
+                "name": "Osicala",
+                "cantons": 5,
+                "postalCode": "03216"
+            },
+            {
+                "id_mun": "1316",
+                "name": "Perquín",
+                "cantons": 3,
+                "postalCode": "03217"
+            },
+            {
+                "id_mun": "1317",
+                "name": "San Carlos",
+                "cantons": 4,
+                "postalCode": "03218"
+            },
+            {
+                "id_mun": "1318",
+                "name": "San Fernando",
+                "cantons": 2,
+                "postalCode": "03219"
+            },
+            {
+                "id_mun": "1319",
+                "name": "San Francisco Gotera",
+                "cantons": 6,
+                "postalCode": "03201"
+            },
+            {
+                "id_mun": "1320",
+                "name": "San Isidro",
+                "cantons": 2,
+                "postalCode": "03220"
+            },
+            {
+                "id_mun": "1321",
+                "name": "San Simón",
+                "cantons": 6,
+                "postalCode": "03221"
+            },
+            {
+                "id_mun": "1322",
+                "name": "Sensembra",
+                "cantons": 2,
+                "postalCode": "03222"
+            },
+            {
+                "id_mun": "1323",
+                "name": "Sociedad",
+                "cantons": 8,
+                "postalCode": "03223"
+            },
+            {
+                "id_mun": "1324",
+                "name": "Torola",
+                "cantons": 4,
+                "postalCode": "03224"
+            },
+            {
+                "id_mun": "1325",
+                "name": "Yamabal",
+                "cantons": 4,
+                "postalCode": "03225"
+            },
+            {
+                "id_mun": "1326",
+                "name": "Yoloaiquín",
+                "cantons": 2,
+                "postalCode": "03226"
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "name": "La Unión",
+        "departmentalCapital": "La Unión",
+        "ISO": "SV-UN",
+        "expansion": 2074.34,
+        "cities": [
+            {
+                "id_mun": "1401",
+                "name": "Anamorós",
+                "cantons": 8,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1402",
+                "name": "Bolívar",
+                "cantons": 9,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1403",
+                "name": "Concepción de Oriente",
+                "cantons": 4,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1404",
+                "name": "Conchagua",
+                "cantons": 16,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1405",
+                "name": "El Carmen",
+                "cantons": 11,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1406",
+                "name": "El Sauce",
+                "cantons": 5,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1407",
+                "name": "Intipucá",
+                "cantons": 2,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1408",
+                "name": "La Unión",
+                "cantons": 13,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1409",
+                "name": "Lilisque",
+                "cantons": 6,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1410",
+                "name": "Meanguera del Golfo",
+                "cantons": 3,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1411",
+                "name": "Nueva Esparta",
+                "cantons": 6,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1412",
+                "name": "Pasaquina",
+                "cantons": 9,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1413",
+                "name": "Polorós",
+                "cantons": 7,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1414",
+                "name": "San Alejo",
+                "cantons": 19,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1415",
+                "name": "San José",
+                "cantons": 4,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1416",
+                "name": "Santa Rosa de Lima",
+                "cantons": 8,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1417",
+                "name": "Yayantique",
+                "cantons": 4,
+                "postalCode": "03104"
+            },
+            {
+                "id_mun": "1418",
+                "name": "Yucuaiquín",
+                "cantons": 9,
+                "postalCode": "03104"
+            }
+        ]
+    }
+]
