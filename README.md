@@ -63,7 +63,7 @@ console.log(isValid);
 ### Obtener departamentos
 
 Puedes obtener todos los departamentos de El Salvador como un areglo de objetos de Javascript para que pueda ser utilizado en tus sistemas, como por ejemplo: un select o combobox, a continuación te mostramos un ejemplo de como se veria:
-<br>
+
 | id | name (Nombre) | departmentalCapital (Cabecera departamental) | ISO (Código ISO) | expansion (Extensión territorial) |
 |----|---------------|----------------------------------------------|------------------|-----------------------------------|
 | 01 | Ahuachapán    | departmentalCapital                          | SV-AH            | 1239.6                            |
@@ -83,7 +83,7 @@ Puedes obtener todos los municipios de un departamento utilizando el ID que obtu
 | id   | name (Nombre) | cantons (Cantones) | postalCode (Código postal) |
 |------|---------------|--------------------|----------------------------|
 | 0101 | Ahuachapán    | 29                 | 02101                      |
-<br>
+
 ```js
 import { Torogoz, TypeDocuments } from 'torogoz';
 
