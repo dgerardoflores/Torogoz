@@ -91,7 +91,7 @@ Puedes obtener todos los municipios de un departamento utilizando el ID que obtu
 ```js
 import { Torogoz, TypeDocuments } from 'torogoz';
 
-const municipalities = const deparments = Torogoz.getMunicipalities('01');
+const municipalities = Torogoz.getMunicipalities('01');
 
 console.log(municipalities);
 ```
